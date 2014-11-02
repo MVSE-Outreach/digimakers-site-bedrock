@@ -1,5 +1,5 @@
-set :application, 'digimakers-wordpress-bedrock'
-set :repo_url, 'git@github.com:MVSE-Outreach/digimakers-site.git'
+set :application, 'digimakers'
+set :repo_url, 'git@github.com:MVSE-Outreach/digimakers-site-bedrock.git'
 
 # Branch options
 # Prompts for the branch name (defaults to current branch)
