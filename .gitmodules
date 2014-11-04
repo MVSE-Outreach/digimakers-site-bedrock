@@ -1,0 +1,3 @@
+[submodule "web/app/themes/roots"]
+	path = web/app/themes/roots
+	url = git@github.com:roots/roots.git
