@@ -1,3 +1,6 @@
 [submodule "web/app/themes/roots"]
 	path = web/app/themes/roots
 	url = git@github.com:roots/roots.git
+[submodule "web/app/themes/digimaker-roots"]
+	path = web/app/themes/digimaker-roots
+	url = git@github.com:MVSE-Outreach/digimakers-roots-wordpress-theme.git
