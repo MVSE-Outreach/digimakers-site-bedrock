@@ -1,6 +1,10 @@
 THEME_PATH=web/app/themes/digimaker-roots 
 .PHONY: all
-all: watch
+all: build
+
+.PHONY: build
+build:
+	cd $(THEME_PATH) && grunt dev
 
 .PHONY: watch
 watch:
